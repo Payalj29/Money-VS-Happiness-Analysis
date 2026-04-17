@@ -1,5 +1,3 @@
-Here's the clean version without emojis:
-
 Money vs Happiness — World Happiness Analysis (2015–2024)
 "Can money actually make you happy? I analyzed 10 years of 
 global data to find out."
